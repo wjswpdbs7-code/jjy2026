@@ -10,4 +10,4 @@
 -wsl 설치
 -vscode, git 설치
 -os 설명 
--RRQWAAAㄴㄴㄴㄴ
+-h
